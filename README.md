@@ -1,6 +1,6 @@
 # Summary
 
-<figure><img src=".gitbook/assets/luchador-2998.png" alt=""><figcaption><p>Luchadores #2998</p></figcaption></figure>
+<figure><img src=".gitbook/assets/luchador-2998 (2).png" alt=""><figcaption></figcaption></figure>
 
 GM frens !
 
