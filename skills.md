@@ -38,8 +38,8 @@
 * Visual Studio Code
 * Jira
 
-## Others
+## Soft
 
-* blockchain explorers
-* Dune Analytics
-* DeFiLama
+* communication
+* honesty
+* punctuality
