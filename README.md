@@ -1,4 +1,8 @@
-# Summary
+---
+description: This is my resume. You will find every relevant information here.
+---
+
+# 👋 Summary
 
 <figure><img src=".gitbook/assets/luchador-2998 (2).png" alt=""><figcaption></figcaption></figure>
 

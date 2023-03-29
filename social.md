@@ -1,4 +1,8 @@
-# Social
+---
+description: How to contact me
+---
+
+# 🗣 Social
 
 1. [Mail](mailto:fferon.recrutement@proton.me): fferon.recrutement@proton.me
 2. [Discord](https://discord.com/users/sorag#0227): sorag#0227

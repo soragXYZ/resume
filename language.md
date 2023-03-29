@@ -1,5 +1,9 @@
-# Language
+---
+description: The languages I know
+---
 
-:flag\_fr: French: native language
+# 📢 Language
 
-:flag\_gb: English: fluent (C1, TOEIC: 920/990)
+### :flag\_fr: French: native language
+
+### :flag\_gb: English: fluent (C1, TOEIC: 920/990)

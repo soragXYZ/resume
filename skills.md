@@ -1,4 +1,8 @@
-# Skills
+---
+description: What can I do ?
+---
+
+# 🛠 Skills
 
 ## Language
 
@@ -19,8 +23,8 @@
 
 ## CI/CD
 
-* pytest
-* github action
+* Pytest
+* Github action
 * CircleCI / Jenkins
 
 ## Cloud and Virtualization
@@ -31,6 +35,11 @@
 * AWS
 * Contabo
 
+## Operating System
+
+* Windows
+* Ubuntu
+
 ## Tools
 
 * Github
@@ -40,6 +49,6 @@
 
 ## Soft
 
-* communication
-* honesty
-* punctuality
+* Communication
+* Honesty
+* Punctuality

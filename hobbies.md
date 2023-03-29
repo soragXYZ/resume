@@ -1,4 +1,8 @@
-# Hobbies
+---
+description: What I like to do in my free time
+---
+
+# ⛱ Hobbies
 
 ## Sport
 
@@ -25,5 +29,5 @@ web3 and decentralization is the future. The world just does not see it yet.
 * Read governance proposals
 * Hunt for airdrops
 * Read documentation or research papers
-* write technical articles on Medium
+* Write technical articles on Medium
 * DeFi France contributor
