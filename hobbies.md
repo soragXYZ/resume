@@ -20,14 +20,3 @@ I like to play video games with friends. It brings a lot of creativity and imagi
 * Satisfactory
 * Civilisation 6
 * Darktide
-
-## Web3
-
-web3 and decentralization is the future. The world just does not see it yet.
-
-* Trying out new protocols
-* Read governance proposals
-* Hunt for airdrops
-* Read documentation or research papers
-* Write technical articles on Medium
-* DeFi France contributor

@@ -8,7 +8,7 @@ description: This is my resume. You will find every relevant information here.
 
 GM frens !
 
-I am a young graduate of engineering school in Computer Science and Networks, and I am currently working at Petale, a web3 start-up, specialized in real world asset.
+I am a young French graduate of engineering school in Computer Science and Networks, and I am currently working at Petale, a web3 start-up, specialized in real world asset.
 
 I am also a web3 enthusiast.
 
