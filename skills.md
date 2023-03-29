@@ -49,6 +49,8 @@ description: What can I do ?
 
 ## Soft
 
+* Autonomy
 * Communication
-* Honesty
-* Punctuality
+* Curiosity
+* Honesty and transparency
+
