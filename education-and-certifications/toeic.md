@@ -4,4 +4,4 @@ description: November 2020
 
 # 📃 TOEIC
 
-Test of English for International Communication, 920/990
+[**T**est **O**f **E**nglish for **I**nternational **C**ommunication](https://www.etsglobal.org/fr/en), 920/990
