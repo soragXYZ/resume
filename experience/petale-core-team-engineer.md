@@ -1,5 +1,5 @@
 ---
-description: From November 2021 to now, 2 years, REMOTE
+description: From November 2021 to April 2023, 1.5 years, REMOTE
 ---
 
 # 🏠 Petale, Core Team Engineer
